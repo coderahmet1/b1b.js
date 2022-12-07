@@ -1,0 +1,22 @@
+{
+  "name": "@b1bxonty/b1b.js",
+  "version": "1.0.0",
+  "description": "A javascript library that contains many functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b1bxonty/b1b.js.git"
+  },
+  "author": "B1BXONTY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b1bxonty/b1b.js/issues"
+  },
+  "homepage": "https://github.com/b1bxonty/b1b.js#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  }
+}
